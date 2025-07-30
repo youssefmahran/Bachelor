@@ -6,3 +6,11 @@ This thesis explores the impact of dynamic entropy tuning in Reinforcement Learn
 
 ## Academic Acheivements
 This thesis resulted in the publication of three different IEEE conference papers with one paper receiving the `best paper award` and received `A+` grade
+
+## Publications
+- [Dynamic Entropy Tuning in Reinforcement Learning Low-Level Quadcopter Control: Stochasticity vs Determinism](https://doi.org/10.1109/ICCTA64612.2024.10974880) (Best Paper Award)
+- [Reinforcement Learning Position Control of a Quadrotor Using Soft Actor-Critic (SAC)](https://doi.org/10.1109/NILES63360.2024.10753187)
+- [Control of a Twin Rotor using Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://doi.org/10.1109/ICSTCC62912.2024.10744717)
+
+## License
+This repository is for academic and educational use.
